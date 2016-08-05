@@ -1,0 +1,35 @@
+_repo: Spring-Days_6029
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Moore, George Augustus
+    - Rhone, Lady
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: This novel (1888) tells the story of three spoiled daughters who are
+  a great source of grief and distress to their parents. Moore later called the book
+  the worst book he'd ever written, and it was omitted from the lists of his acknowledged
+  works. Twenty-five years later, however, at the urging of friends with whom the
+  book found favor, Moore revisited the work, and deemed it more engaging than he'd
+  remembered.
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Spring Days
+url: http://www.gutenberg.org/ebooks/6029
